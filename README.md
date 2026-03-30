@@ -6,5 +6,5 @@ This repository serves as a living document of my journey through Analog and Dig
 ## Table of Contents
 | S.No | Topic | Link |
 | :--- | :---: | ---: |
-| 1 | Basic and Trigonometric Signals | sigsys1 |
+| 1 | Basic and Trigonometric Signals | [CH01](https://github.com/Akiboy18/Wavelab-101/blob/main/CH01_Basic_%26_Trigonometric_Signals.pdf) |
 
