@@ -6,4 +6,4 @@ This repository serves as a living document of my revision journey through Analo
 | S.No | Topic | Link |
 | :--- | :---: | ---: |
 | 1 | Basic and Trigonometric Signals | [CH01](https://github.com/Akiboy18/Wavelab-101/blob/main/CH01_Basic_%26_Trigonometric_Signals.pdf) |
-| 2 | Time and Frequency Domain Representations | [CH01]() |
+| 2 | Time and Frequency Domain Representations | [CH02]() |
